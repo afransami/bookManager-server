@@ -1,0 +1,50 @@
+[
+    {
+        "bookName": "The Catcher in the Rye",
+        "authorName": "J.D. Salinger",
+        "imageUrl": "https://example.com/catcher-in-the-rye.jpg",
+        "categoryName": "Fiction",
+        "metaTextDescription": "A teenage boy struggles with the complexities of growing up in post-World War II America.",
+        "bookPdfUrl": "https://example.com/catcher-in-the-rye.pdf"
+    },
+    {
+        "bookName": "To Kill a Mockingbird",
+        "authorName": "Harper Lee",
+        "imageUrl": "https://example.com/to-kill-a-mockingbird.jpg",
+        "categoryName": "Fiction",
+        "metaTextDescription": "A small-town lawyer defends a black man in a racially charged trial in the 1930s.",
+        "bookPdfUrl": "https://example.com/to-kill-a-mockingbird.pdf"
+    },
+    {
+        "bookName": "The Great Gatsby",
+        "authorName": "F. Scott Fitzgerald",
+        "imageUrl": "https://example.com/the-great-gatsby.jpg",
+        "categoryName": "Fiction",
+        "metaTextDescription": "A man tries to win back his lost love in the decadent world of 1920s New York.",
+        "bookPdfUrl": "https://example.com/the-great-gatsby.pdf"
+    },
+    {
+        "bookName": "The Elements of Style",
+        "authorName": "William Strunk Jr. and E.B. White",
+        "imageUrl": "https://example.com/the-elements-of-style.jpg",
+        "categoryName": "Nonfiction",
+        "metaTextDescription": "A classic guide to the principles of writing well, with advice on grammar, style, and usage.",
+        "bookPdfUrl": "https://example.com/the-elements-of-style.pdf"
+    },
+    {
+        "bookName": "The Hitchhiker's Guide to the Galaxy",
+        "authorName": "Douglas Adams",
+        "imageUrl": "https://example.com/hitchhikers-guide.jpg",
+        "categoryName": "Science Fiction",
+        "metaTextDescription": "A hapless human and his alien friend travel through space in search of the meaning of life.",
+        "bookPdfUrl": "https://example.com/hitchhikers-guide.pdf"
+    },
+    {
+        "bookName": "The Art of War",
+        "authorName": "Sun Tzu",
+        "imageUrl": "https://example.com/the-art-of-war.jpg",
+        "categoryName": "Nonfiction",
+        "metaTextDescription": "An ancient Chinese treatise on military strategy, with lessons that can be applied to business and other fields.",
+        "bookPdfUrl": "https://example.com/the-art-of-war.pdf"
+    }
+]
