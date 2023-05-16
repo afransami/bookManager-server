@@ -47,6 +47,14 @@ async function run() {
         res.send(result)
     })
 
+    // to see details button
+    app.get('/book/:id', async (req, res)=>{        
+      const id = req.params.id;      
+      const filter = {_id: new ObjectId(id)}      
+      const data = await bookCollection.findOne(filter)
+      res.send (data)
+  })
+
 
     // to update a single portion wil have to use patch otherwise will have to use put method
     app.patch('/book/:id', async (req, res)=>{        
